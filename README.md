@@ -33,7 +33,7 @@
   <a href="https://stackoverflow.com/users/27654211/prashant-shah" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@FactOrMyth" target="blank">
+  <a href="www.youtube.com/@prashant_2076" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
