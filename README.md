@@ -16,9 +16,8 @@
 
 <h3 align="left">📱 Featured Projects (Flutter & Dart)</h3>
 
-- 🚀 [FlutterPractice](https://github.com/github-1703/flutterPractice): A hands-on Flutter learning repository  
-- 📘 [Flutter Quiz App](https://github.com/github-1703/flutter-quiz-app) *(Add your real repo URL here)*  
-- 🧩 [Dart Mini Projects](https://github.com/github-1703/dart-mini-projects) *(Add your real repo URL here)*  
+- 🚀 [FlutterPractice](https://github.com/github-1703/flutterPractice): A hands-on Flutter learning repository
+  
 
 ---
 
