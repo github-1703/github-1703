@@ -66,7 +66,8 @@ I'm a Computer Science student from Nepal passionate about building mobile and w
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=github-1703&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=github-1703&theme=tokyonight)
 
 </div>
 
